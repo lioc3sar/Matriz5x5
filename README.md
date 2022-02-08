@@ -1,6 +1,6 @@
 # Matriz5x5
 
-Programa em C que gera uma Matriz5x5 e realiza o cálculo das somas dos valores das linhas e o tatal das linhas somadas.
+Programa em C que gera uma Matriz5x5 e realiza o cálculo das somas dos valores das linhas e o total das linhas somadas.
 ```
 #include<stdio.h>
 #include<stdlib.h>
